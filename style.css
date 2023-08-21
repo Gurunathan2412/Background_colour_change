@@ -1,0 +1,13 @@
+button {
+    background-color: aqua;
+    color: brown;
+    padding: 10px 20px;
+    cursor: pointer;
+    /* margin: 250px 500px; */
+    width: 150px;
+    height: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
